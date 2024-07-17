@@ -1,7 +1,2 @@
----
-description: COLA 架构
----
+# 运维
 
-# COLA
-
-> [https://github.com/alibaba/COLA](https://github.com/alibaba/COLA)
