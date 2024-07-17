@@ -2,9 +2,16 @@
 
 ## 技术
 
-* [运维](README.md)
-* [架构](ji-shu/jia-gou/README.md)
-  * [COLA](ji-shu/jia-gou/cola.md)
+* [架构](README.md)
+  * [COLA  架构](ji-shu/jia-gou/cola-jia-gou.md)
+* [运维](ji-shu/yun-wei/README.md)
+  * [Amazon EKS](ji-shu/yun-wei/amazon-eks.md)
+  * [Apache Flink](ji-shu/yun-wei/apache-flink.md)
+* [Java](ji-shu/java/README.md)
+  * [OkHttp](ji-shu/java/okhttp.md)
+  * [@PostConstruct](ji-shu/java/postconstruct.md)
+  * [内存使用](ji-shu/java/nei-cun-shi-yong.md)
+  * [垃圾收集器选择](ji-shu/java/la-ji-shou-ji-qi-xuan-ze.md)
 
 ## 生活
 

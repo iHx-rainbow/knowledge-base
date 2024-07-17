@@ -1,7 +1,7 @@
 ---
-description: COLA 架构
+description: DDD
 ---
 
-# COLA
+# COLA  架构
 
 > [https://github.com/alibaba/COLA](https://github.com/alibaba/COLA)
