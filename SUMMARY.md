@@ -5,6 +5,7 @@
 * [架构](README.md)
   * [COLA 架构](ji-shu/jia-gou/cola-jia-gou.md)
 * [运维](ji-shu/yun-wei/README.md)
+  * [Linux 常用命令](ji-shu/yun-wei/linux-chang-yong-ming-ling.md)
   * [Amazon EKS](ji-shu/yun-wei/amazon-eks.md)
   * [Apache Flink](ji-shu/yun-wei/apache-flink.md)
 * [Java](ji-shu/java/README.md)
