@@ -5,6 +5,10 @@
 * [架构](README.md)
   * [COLA 架构](ji-shu/jia-gou/cola-jia-gou.md)
 * [运维](ji-shu/yun-wei/README.md)
+  * [Saltstack](ji-shu/yun-wei/saltstack.md)
+  * [DDOS](ji-shu/yun-wei/ddos.md)
+  * [Pinpoint](ji-shu/yun-wei/pinpoint.md)
+  * [夜莺](ji-shu/yun-wei/ye-ying.md)
   * [Linux 常用命令](ji-shu/yun-wei/linux-chang-yong-ming-ling.md)
   * [Amazon EKS](ji-shu/yun-wei/amazon-eks.md)
   * [Apache Flink](ji-shu/yun-wei/apache-flink.md)
@@ -22,4 +26,6 @@
 
 ## 杂项
 
-* [Page 3](za-xiang/page-3.md)
+* [什么是容器](za-xiang/shen-me-shi-rong-qi.md)
+* [订阅转换](za-xiang/ding-yue-zhuan-huan.md)
+* [移动光猫获取超管权限](za-xiang/page-3.md)
