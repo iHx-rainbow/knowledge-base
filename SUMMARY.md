@@ -30,6 +30,7 @@
 
 ## 杂项
 
+* [UnblockNeteaseMusic](za-xiang/unblockneteasemusic.md)
 * [Cloudflare 优选 IP](za-xiang/cloudflare-you-xuan-ip.md)
 * [Let’s Encrypt 验证方式](za-xiang/lets-encrypt-yan-zheng-fang-shi.md)
 * [Clash 负载均衡](za-xiang/clash-fu-zai-jun-heng.md)
