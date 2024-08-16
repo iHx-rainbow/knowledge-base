@@ -38,11 +38,11 @@
 * [docker hub 镜像](za-xiang/docker-hub-jing-xiang.md)
 * [什么是容器](za-xiang/shen-me-shi-rong-qi.md)
 * [订阅转换](za-xiang/ding-yue-zhuan-huan.md)
-* [移动光猫获取超管权限](za-xiang/page-3.md)
+* [移动光猫获取超管权限](za-xiang/guang-mao.md)
 
 ## 记录
 
 * [关注博客](ji-lu/guan-zhu-bo-ke.md)
-* [恋爱公约](ji-lu/page-2.md)
+* [恋爱公约](ji-lu/lian-ai-gong-yue.md)
 * [NSFW](ji-lu/nsfw.md)
 * [叠甲](ji-lu/die-jia.md)
