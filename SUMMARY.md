@@ -30,6 +30,7 @@
 
 ## 杂项
 
+* [gitignore 添加已推远程的文件](za-xiang/gitignore-tian-jia-yi-tui-yuan-cheng-de-wen-jian.md)
 * [xmind 激活](za-xiang/xmind-ji-huo.md)
 * [UnblockNeteaseMusic](za-xiang/unblockneteasemusic.md)
 * [Cloudflare 优选 IP](za-xiang/cloudflare-you-xuan-ip.md)
