@@ -13,6 +13,8 @@
   * [Amazon EKS](ji-shu/yun-wei/amazon-eks.md)
   * [Apache Flink](ji-shu/yun-wei/apache-flink.md)
 * [后端](hou-duan.md)
+  * [Python](ji-shu/hou-duan/python/README.md)
+    * [Selenium 和 Playwright](ji-shu/hou-duan/python/selenium-he-playwright.md)
   * [Java](ji-shu/java/README.md)
     * [SpringBoot 整合 MongoDB](ji-shu/java/springboot-zheng-he-mongodb.md)
     * [Dubbo 包方法没有参数名](ji-shu/java/dubbo-bao-fang-fa-mei-you-can-shu-ming.md)
