@@ -32,6 +32,7 @@
 
 ## 杂项
 
+* [Windows 自动化](za-xiang/windows-zi-dong-hua.md)
 * [gitignore 添加已推远程的文件](za-xiang/gitignore-tian-jia-yi-tui-yuan-cheng-de-wen-jian.md)
 * [xmind 激活](za-xiang/xmind-ji-huo.md)
 * [UnblockNeteaseMusic](za-xiang/unblockneteasemusic.md)
