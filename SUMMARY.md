@@ -32,6 +32,7 @@
 
 ## 杂项
 
+* [电视直播源](za-xiang/dian-shi-zhi-bo-yuan.md)
 * [Windows 自动化](za-xiang/windows-zi-dong-hua.md)
 * [gitignore 添加已推远程的文件](za-xiang/gitignore-tian-jia-yi-tui-yuan-cheng-de-wen-jian.md)
 * [xmind 激活](za-xiang/xmind-ji-huo.md)
@@ -47,6 +48,7 @@
 
 ## 记录
 
+* [收藏网址](ji-lu/shou-cang-wang-zhi.md)
 * [关注博客](ji-lu/guan-zhu-bo-ke.md)
 * [恋爱公约](ji-lu/lian-ai-gong-yue.md)
 * [NSFW](ji-lu/nsfw.md)
